@@ -67,8 +67,8 @@ For car racing enthusiasts, this app tracks details and statistics of car races,
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/hello-dev-nikhil)
-- **Email:** [your.email@example.com](mailto:hello.devnikhil@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/hello-dev-nikhil)
+- **Email:** [Mail me](mailto:hello.devnikhil@gmail.com)
 
 Feel free to reach out if you have any questions, ideas, or just want to connect!
 
